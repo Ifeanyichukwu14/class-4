@@ -1,0 +1,38 @@
+body{
+    background-color: brown;
+}
+
+.header{
+    width: 100%;
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+}
+
+.main{
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.column1{
+    width: 400px;
+    height: 500px;
+    background-color: skyblue;
+    float: left;
+}
+
+.column2{
+    width: 400px;
+    height: 500px;
+    background-color: pink;
+    float: left;
+}
+
+.footer{
+    clear: both;
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+}
